@@ -7,10 +7,10 @@
   "env": {
     "UUID": {
       "description": "VLESS UUID",
-      "value": "70f4b942-830d-47dd-b92d-f4ee96fc7045"
+      "value": "d3f8d8c2-7123-426b-bef5-db0116b4723e"
     }
   },
   "website": "https://github.com/JoanKHaines/",
-  "repository": "https://github.com/JoanKHaines/Build-",
+  "repository": "https://github.com/JoanKHaines/vless",
   "stack": "container"
 }
